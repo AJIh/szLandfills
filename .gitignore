@@ -1,0 +1,8 @@
+./.settings
+./.classpath
+./.project
+./proguard-project.txt
+.DS_Store
+.idea
+node_modules
+dist
